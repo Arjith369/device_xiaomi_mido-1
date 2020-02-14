@@ -1,0 +1,21 @@
+[ 
+ {
+    "remote": "github",
+    "repository": "StagOS-Devices/kernel_xiaomi_mido",
+    "target_path": "kernel/xiaomi/mido",
+    "branch": "sx"
+  },
+  {
+    "remote": "github",
+    "repository": "StagOS-Devices/vendor_xiaomi-mido",
+    "target_path": "vendor/xiaomi",
+    "branch": "sx"
+  },
+  {
+    "repository": "android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "branch": "lineage-17.1",
+    "remote": "los"
+  }
+
+]
